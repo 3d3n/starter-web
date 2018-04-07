@@ -20,6 +20,8 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull requests for review
+
 ## Copyright
 
 Git training
